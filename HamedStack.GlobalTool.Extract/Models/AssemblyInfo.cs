@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace DotNetExtract.Models;
+﻿namespace HamedStack.GlobalTool.Extract.Models;
 
 public class AssemblyInfo
 {

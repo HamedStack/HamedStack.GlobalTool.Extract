@@ -1,12 +1,8 @@
-﻿using DotNetExtract.Models;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
+﻿using System.Reflection;
 using System.Security.Cryptography;
+using HamedStack.GlobalTool.Extract.Models;
 
-namespace DotNetExtract;
+namespace HamedStack.GlobalTool.Extract;
 
 public static class Extractor
 {

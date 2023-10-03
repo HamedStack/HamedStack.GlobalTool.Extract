@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
-namespace DotNetExtract;
+namespace HamedStack.GlobalTool.Extract;
 
 internal static class Extensions
 {

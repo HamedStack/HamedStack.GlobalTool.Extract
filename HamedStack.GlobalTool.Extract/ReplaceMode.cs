@@ -1,4 +1,4 @@
-﻿namespace DotNetExtract;
+﻿namespace HamedStack.GlobalTool.Extract;
 
 internal enum ReplaceMode
 {

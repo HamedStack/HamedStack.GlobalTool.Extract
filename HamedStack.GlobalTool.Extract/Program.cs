@@ -1,10 +1,6 @@
 ﻿using McMaster.Extensions.CommandLineUtils;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 
-namespace DotNetExtract;
+namespace HamedStack.GlobalTool.Extract;
 
 // ReSharper disable once ClassNeverInstantiated.Global
 class Program
